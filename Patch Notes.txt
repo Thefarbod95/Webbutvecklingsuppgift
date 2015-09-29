@@ -1,0 +1,24 @@
+28/9-2015 - Commit1
+
+Created the basics of the site.
+Added navigation bar.
+Added background image.
+Created basic CSS classes.
+Added pages "Home", "Music", "Games", "Dank" and "Shia".
+Added right video to page "Shia".
+
+
+
+29/9-2015 - Commit2
+
+Created unorganized list to page "Music".
+Added audio files "Alex TheSeal - Raise your Kappa", "Alex TheSeal - Forsen and Hornpub v Cancer 2.0" 
+and "NymN - EVERYONE GET IN HERE" to page "Music" with working players.
+Added right amount of KKona to page "Dank".
+Added right audio file, "Brotherman Bill", to page "Dank".
+
+
+
+29/9-2015 - Commit3
+
+Created text file "Patch Notes.txt" to folder in order to document past and future commits.
