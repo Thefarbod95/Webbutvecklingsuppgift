@@ -32,6 +32,11 @@ Fixed size of game "Zork.swf".
 
 
 
+12/10-2015 - Commit5
+
+Changed ID to class on div of music tracks on page 'Music'.
+
+
 13/10-2015 - Commit5
 
 Added welcome text to page "Home".
