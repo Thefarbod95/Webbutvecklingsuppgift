@@ -23,7 +23,16 @@ Added right audio file, "Brotherman Bill", to page "Dank".
 
 Created text file "Patch Notes.txt" to folder in order to document past and future commits.
 
+
+
 12/10-2015 - Commit4
 
-Added game to page 'Games'.
-Fixed size of game 'Zork.swf'.
+Added game to page "Games".
+Fixed size of game "Zork.swf".
+
+
+
+13/10-2015 - Commit5
+
+Added welcome text to page "Home".
+Fixed a few HTML5 Validator bugs.
