@@ -37,7 +37,25 @@ Fixed size of game "Zork.swf".
 Changed ID to class on div of music tracks on page 'Music'.
 
 
+
 13/10-2015 - Commit6
 
 Added welcome text to page "Home".
 Fixed a few HTML5 Validator bugs.
+
+
+
+15/10-2015 - commit7
+
+Changed page "Home".
+Changed welcome message on page "Home".
+
+
+19/10-2015 - commit8
+
+Changed video quality on page "Home" to lower file-size.
+
+
+20/10-2015 - commit9
+
+File-size still too big on page "Home", changing it to a video of poor quality so it can be uploaded.
